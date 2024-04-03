@@ -1,2 +1,2 @@
-# example_package_emp
-test pypi package
+# Example Package 
+Stupid and useless python package to test pypi
