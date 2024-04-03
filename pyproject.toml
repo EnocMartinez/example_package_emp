@@ -1,10 +1,10 @@
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling", "rich"]
 build-backend = "hatchling.build"
 
 [project]
 name = "example_package_emp"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Enoc Martínez", email="enoc.martinez@upc.edu" },
 ]
